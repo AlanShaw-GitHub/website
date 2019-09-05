@@ -21,4 +21,4 @@ Welcome to the **personal demo** of Academic. Other demos available include:
 
 **[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
 
-{{< gallery >}}
+
