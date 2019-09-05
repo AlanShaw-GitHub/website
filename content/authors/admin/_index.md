@@ -26,6 +26,7 @@ interests:
 - Machine Learning
 
 education:
+  courses:
   - course: BSc in Computer Science
     institution: Chu Kochen Honor College, Zhejiang University
     year: 2016 - 
