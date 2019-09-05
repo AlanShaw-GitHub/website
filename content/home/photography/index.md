@@ -13,4 +13,6 @@ subtitle = "Personal Hobby"
 
 +++
 
-{{< gallery >}}
+My hobby is photography. I have been making photos for several years and join various photography clubs at school.
+
+{{< figure src="gallery/DSC00914.jpg" title="Grinffy" lightbox="true" >}}
