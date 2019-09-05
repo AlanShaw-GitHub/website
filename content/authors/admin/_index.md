@@ -28,7 +28,7 @@ interests:
 education:
   - course: BSc in Computer Science
     institution: Chu Kochen Honor College, Zhejiang University
-    year: 2016
+    year: 2016 - 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
