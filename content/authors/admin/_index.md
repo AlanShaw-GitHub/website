@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include Adersarial attack & Robustness of machine learning models and natural language processing.
 
 interests:
-- Adersarial attack & Robustness
+- Adversarial attack & Robustness
 - Natural Language Processing
 - Machine Learning
 
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Zhenxin Xiao is an undergraduate student of computer science in Zhejiang University. His research interests include distributed robotics, mobile computing and programmable matter. 
+I am an undergraduate student of computer science in Zhejiang University. I am currently at UCLA advised by <a href="http://web.cs.ucla.edu/~chohsieh/">Cho-Jui Hsieh</a> conducting experiments about adversarial attack problem. Previously, I followed <a href="https://scholar.google.com/citations?user=IIoFY90AAAAJ">Zhou Zhao</a> at Zhejiang University doing research about various NLP problems. I will join Natural Language Computing Group of Microsoft Research, Asia (MSRA) at October as a research intern. My research interests include Adersarial attack & Robustness of machine learning models and natural language processing. 
