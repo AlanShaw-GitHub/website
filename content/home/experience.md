@@ -36,9 +36,9 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2020-07-01"
   description = """
-  * Year 1: GPA: 4.00/5.00    Rank: 14/100
-  * Year 2: GPA: 4.40/5.00    Rank: 3/85
-  * Year 3: GPA: 4.67/5.00    Rank: 1/85
+  * Year 1: GPA: 4.00\/5.00    Rank: 14\/100
+  * Year 2: GPA: 4.40\/5.00    Rank: 3\/85
+  * Year 3: GPA: 4.67\/5.00    Rank: 1\/85
 
   """
 
