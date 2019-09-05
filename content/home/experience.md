@@ -18,27 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
+  title = "Summer Research Intern"
+  company = "UCLA CSST Program"
+  company_url = "https://csst.ucla.edu/summer-program-csst"
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2019-07-07"
+  date_end = "2019-09-14"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  I am advised by professor Kai-Wei Chang and Cho-Jui Hsieh in Compute Science at UCLA contacting experiments about adversarial attack.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Undergraduate Student"
+  company = "Zhejiang University"
+  company_url = "www.zju.edu.cn"
+  location = "Hangzhou, China"
+  date_start = "2016-09-01"
+  date_end = "2020-07-01"
+  description = """
+  Year 1: GPA: 4.00/5.00    Rank: 14/100
+  Year 2: GPA: 4.40/5.00    Rank: 3/85
+  Year 3: GPA: 4.67/5.00    Rank: 1/85
+
+  """
 
 +++
