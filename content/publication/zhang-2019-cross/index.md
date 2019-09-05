@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*SIGIR 2019*"
-view: 3
+view: 4
 header:
   caption: "p1"
   image: "p1.png"
