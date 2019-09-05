@@ -38,9 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:test@alanshawzju@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/alan_shaw_
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/alan_shaw_
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=swXDb0YAAAAJ
