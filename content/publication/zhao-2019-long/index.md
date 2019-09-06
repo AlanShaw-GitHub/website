@@ -1,7 +1,7 @@
 ---
 title: "Long-Form Video Question Answering via Dynamic Hierarchical Reinforced Networks"
 date: 2019-01-01
-authors: ["Zhou Zhao", "Zhu Zhang", "Shuwen Xiao", "*Zhenxin Xiao*", "Xiaohui Yan", "Jun Yu", "Deng Cai", "Fei Wu"]
+authors: ["Zhou Zhao", "Zhu Zhang", "Shuwen Xiao", "**Zhenxin Xiao**", "Xiaohui Yan", "Jun Yu", "Deng Cai", "Fei Wu"]
 abstract: ""
 featured: false
 
