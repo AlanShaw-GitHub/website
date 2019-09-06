@@ -30,8 +30,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Zhejiang University"
-  company = "NLP Research"
-  company_url = "www.zju.edu.cn"
+  company = "Digital media Computing & Design Lab"
+  company_url = "http://www.dcd.zju.edu.cn/"
   location = "Hangzhou, China"
   date_start = "2018-03-01"
   date_end = "2019-07-01"
