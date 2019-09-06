@@ -16,3 +16,5 @@ subtitle = "Personal Hobby"
 My hobby is photography. I have been taking photos for several years and join various photography clubs at school.
 
 {{< figure library="true" src="DSC00914.jpg" title="Griffith Observatory" lightbox="true" >}}
+{{< figure library="true" src="DSC02015.jpg" title="SkySpace, Los Angeles" lightbox="true" >}}
+{{< figure library="true" src="DSC01362.jpg" title="Santa Monica Beach" lightbox="true" >}}
