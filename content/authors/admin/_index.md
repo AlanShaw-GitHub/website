@@ -21,14 +21,17 @@ organizations:
 bio: My research interests include Adersarial attack & Robustness of machine learning models and natural language processing.
 
 interests:
-- Adversarial attack & Robustness
-- Natural Language Processing
 - Machine Learning
+- Natural Language Processing
+- Adversarial attack & Robustness
 
 education:
   courses:
   - course: BSc in Computer Science
     institution: Chu Kochen Honor College, Zhejiang University
+    year: 2016 - 
+  - course: BSc in Control Science (Double major) 
+    institution: College of Control Science and Engineering, Zhejiang University
     year: 2016 - 
 
 # Social/Academic Networking
@@ -64,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate student of computer science in Zhejiang University. I am currently at UCLA advised by <a href="http://web.cs.ucla.edu/~chohsieh/">Cho-Jui Hsieh</a> conducting experiments about adversarial attack problem. Previously, I followed <a href="https://scholar.google.com/citations?user=IIoFY90AAAAJ">Zhou Zhao</a> at Zhejiang University doing research about various NLP problems. I will join Natural Language Computing Group of <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research, Asia (MSRA)</a> at October 2019 as a research intern. My research interests include Adersarial attack & Robustness of machine learning models and natural language processing. 
+I am an undergraduate student of computer science in Zhejiang University. I am currently at UCLA advised by <a href="http://web.cs.ucla.edu/~chohsieh/">Cho-Jui Hsieh</a> conducting experiments about adversarial attack problem. Previously, I followed <a href="https://scholar.google.com/citations?user=IIoFY90AAAAJ">Zhou Zhao</a> at Zhejiang University doing research about various NLP problems. I will join Natural Language Computing Group of <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research, Asia (MSRA)</a> at October 2019 as a research intern. My research interests include general machine learning, natural language processing and adersarial attack & robustness of machine learning models. 
