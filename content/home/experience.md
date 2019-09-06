@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-07"
   date_end = "2019-09-14"
   description = """
-  I am advised by professor Kai-Wei Chang and Cho-Jui Hsieh in Compute Science at UCLA conducting experiments about adversarial attack.
+  I am advised by professor Kai-Wei Chang and Cho-Jui Hsieh in Compute Science College at UCLA conducting experiments about adversarial attack.
   """
 
 [[experience]]
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = "2019-07-01"
   description = """
-  I am advised by professor Zhou Zhao in Compute Science at Zhejiang University conducting experiments about various natural language processing problems including machine reading comprehension, question answeing and machine translation.
+  I am advised by professor Zhou Zhao in Compute Science College at Zhejiang University conducting experiments about various natural language processing problems including machine reading comprehension, question answeing and machine translation.
   """
 
 [[experience]]
