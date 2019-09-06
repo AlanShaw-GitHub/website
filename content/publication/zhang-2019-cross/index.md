@@ -2,7 +2,7 @@
 title: "Cross-Modal Interaction Networks for Query-Based Moment Retrieval in Videos"
 date: 2019-01-01
 publishDate: 2019-09-05T05:52:10.074910Z
-authors: ["Zhu Zhang", "Zhijie Lin", "Zhou Zhao", "Zhenxin Xiao"]
+authors: ["Zhu Zhang", "Zhijie Lin", "Zhou Zhao", "*Zhenxin Xiao*"]
 doi: ""
 featured: false
 # Schedule page publish date (NOT publication's date).
