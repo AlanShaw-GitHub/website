@@ -43,8 +43,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Zhejiang University"
-  title = "“Challenge Cup” in Zhejiang University, Modeling peoples’ character with Weibo data
-retrieved by web crawler"
+  title = "“Challenge Cup” in Zhejiang University, Modeling peoples’ character with Weibo data retrieved by web crawler"
   date_start = "2018-06-01"
   description = ""
 
