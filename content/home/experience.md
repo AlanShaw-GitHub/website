@@ -30,8 +30,19 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Zhejiang University"
-  company = "Undergraduate Student"
+  company = "NLP Research"
   company_url = "www.zju.edu.cn"
+  location = "Hangzhou, China"
+  date_start = "2018-03-01"
+  date_end = "2019-07-01"
+  description = """
+  I am advised by professor Zhou Zhao in Compute Science at Zhejiang University conducting experiments about various natural language processing problems including machine reading comprehension, question answeing and machine translation.
+  """
+
+[[experience]]
+  title = "Zhejiang University"
+  company = "Undergraduate Student"
+  company_url = "https://www.zju.edu.cn"
   location = "Hangzhou, China"
   date_start = "2016-09-01"
   date_end = "2020-07-01"

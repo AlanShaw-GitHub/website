@@ -13,6 +13,6 @@ subtitle = "Personal Hobby"
 
 +++
 
-My hobby is photography. I have been making photos for several years and join various photography clubs at school.
+My hobby is photography. I have been taking photos for several years and join various photography clubs at school.
 
 {{< figure library="true" src="DSC00914.jpg" title="Griffith Observatory" lightbox="true" >}}
