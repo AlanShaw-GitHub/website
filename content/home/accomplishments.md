@@ -19,21 +19,31 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Zhejiang University"
   title = "First-Class Scholarship for Outstanding Students (3%), Zhejiang University"
+  description = ""
 
 [[item]]
-  title = "First Price (Top 8 out of 150+) in the 16th Mathematical Contest in Modeling of Zhejiang University"
+  organization = "Zhejiang University"
+  title = "First Price (Top 8 out of 150+) in the 16th Mathematical Contest in Modeling of ZJU"
+  description = ""
 
 [[item]]
   title = "Silver medal winner (win 40000 RMB prize) in the China Datathon in Shanghai (Big Data competition)"
+  description = ""
 
 [[item]]
   organization = "zailairen"
   title = "2019 Valeon Scholarship (S. I. Komarova Scholarship for academic excellence)"
+  description = ""
 
 [[item]]
+  organization = "Zhejiang University"
   title = "“Challenge Cup” in Zhejiang University, Modeling peoples’ character with Weibo data retrieved by web crawler"
+  description = ""
 
 [[item]]
-  title = "Second Price in the 15th Mathematical Contest in Modeling of Zhejiang University"
+  organization = "Zhejiang University"
+  title = "Second Price in the 15th Mathematical Contest in Modeling of ZJU"
+  description = ""
 +++
