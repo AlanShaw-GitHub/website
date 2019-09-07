@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2020-07-01"
   description = """
-  Double Major: Interdisciplinary Honors Program (Computer Science and Control Science). The program was established by Chu Kochen Honor College (recruiting top 7% students) in 2016
+  Double Major: Computer Science and Control Science. I am in Chu Kochen Honor College (recruiting top 7% students in Zhejiang University) and my overall GPA is among top 3%. 
 
   * Year 1: GPA: 4.00 / 5.00,    Rank: 14 / 100
   * Year 2: GPA: 4.40 / 5.00,    Rank: 3 / 85
