@@ -21,13 +21,13 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Zhejiang University"
   title = "First-Class Scholarship for Outstanding Students (3%), Zhejiang University"
-  date_start = ""
+  date_start = "2018-04-01"
   description = ""
 
 [[item]]
   organization = "Zhejiang University"
   title = "First Price (Top 8 out of 150+) in the 16th Mathematical Contest in Modeling of ZJU"
-  date_start = ""
+  date_start = "2018-04-01"
   description = ""
 
 [[item]]
