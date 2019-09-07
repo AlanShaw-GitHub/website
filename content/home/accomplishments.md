@@ -36,12 +36,6 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "zailairen"
-  title = "2019 Valeon Scholarship (S. I. Komarova Scholarship for academic excellence)"
-  date_start = "2019-04-01"
-  description = ""
-
-[[item]]
   organization = "Zhejiang University"
   title = "“Challenge Cup” in Zhejiang University, Modeling peoples’ character with Weibo data retrieved by web crawler"
   date_start = "2018-06-01"
