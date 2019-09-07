@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Zhejiang University"
   title = "First-Class Scholarship for Outstanding Students (3%), Zhejiang University"
-  date_start = ""
+  date_start = "2018-09-01"
   description = ""
 
 [[item]]
