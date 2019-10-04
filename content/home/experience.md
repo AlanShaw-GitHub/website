@@ -47,9 +47,9 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2020-07-01"
   description = """
-  Double Major: Computer Science and Control Science. I am in Chu Kochen Honor College (recruiting top 7% students in Zhejiang University) and my overall GPA is among top 2%. 
+  Double Major: Computer Science and Control Science. I am in Chu Kochen Honor College (recruiting top 7% students in Zhejiang University) and my overall GPA is among top 5%. 
 
-  * GPA: 4.37 / 5.00,    Rank: 1 / 33
+  * GPA: 3.9 / 4.0,    Rank: 1 / 20
 
   """
 
