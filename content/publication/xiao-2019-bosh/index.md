@@ -1,26 +1,23 @@
 ---
-title: "Long-Form Video Question Answering via Dynamic Hierarchical Reinforced Networks"
-date: 2019-01-01
-authors: ["Zhou Zhao", "Zhu Zhang", "Shuwen Xiao", "**Zhenxin Xiao**", "Xiaohui Yan", "Jun Yu", "Deng Cai", "Fei Wu"]
-abstract: ""
-featured: false
-
+title: "BOSH: An Efficient Meta Algorithm for Decision-based Attacks"
+date: 2019-10-14
+publishDate: 2019-10-14T05:52:10.074910Z
+authors: ["**Zhenxin Xiao**", "Puyudi Yang", "Yuchen Jiang", "Kai-Wei Chang", "Cho-Jui Hsieh"]
 doi: ""
-
+featured: false
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-09-05T05:52:10.075857Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Image Processing*"
-publication_short: ""
+publication: "arXiv preprint"
+publication_short: "*arXiv*"
 
-abstract: Open-ended long-form video question answering is a challenging task in visual information retrieval, which automatically generates a natural language answer from the referenced long-form video contents according to a given question. However, the existing works mainly focus on short-form video question answering, due to the lack of modeling semantic representations from long-form video contents. In this paper, we introduce a dynamic hierarchical reinforced network for open-ended long-form video question answering, which employs an encoder–decoder architecture with a dynamic hierarchical encoder and a reinforced decoder. Concretely, we first propose a frame-level dynamic long-short term memory (LSTM) network with binary segmentation gate to learn frame-level semantic representations according to the given question. We then develop a segment-level highway LSTM network with a question-aware highway gate for segment-level semantic modeling. Furthermore, we devise the reinforced decoder with a hierarchical attention mechanism to generate natural language answers. We construct a large-scale long-form video question answering dataset. The extensive experiments on the long-form dataset and another public short-form dataset show the effectiveness of our method.
+abstract: Adversarial example generation becomes a viable method for evaluating the robustness of a machine learning model. In this paper, we consider hard-label black-box attacks (a.k.a. decision-based attacks), which is a challenging setting that generates adversarial examples based on only a series of black-box hard-label queries. This type of attacks can be used to attack discrete and complex models, such as Gradient Boosting Decision Tree (GBDT) and detection-based defense models. Existing decision-based attacks based on iterative local updates often get stuck in a local minimum and fail to generate the optimal adversarial example with the smallest distortion. To remedy this issue, we propose an efficient meta algorithm called BOSH-attack, which tremendously improves existing algorithms through Bayesian Optimization (BO) and Successive Halving (SH). In particular, instead of traversing a single solution path when searching an adversarial example, we maintain a pool of solution paths to explore important regions. We show empirically that the proposed algorithm converges to a better solution than existing approaches, while the query count is smaller than applying multiple random initializations by a factor of 10.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,9 +27,9 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8737880
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: https://arxiv.org/pdf/1909.04288.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -55,3 +52,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
