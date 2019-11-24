@@ -50,6 +50,7 @@ date_format = "Jan 2006"
   Double Major: Computer Science and Automation. I am in the Chu Kochen Honor College (recruiting top 6% students in Zhejiang University) and rank first out of all students in my major. 
 
   * GPA: 3.9 / 4.0,    Rank: 1 / 20
+  * TOEFL: 110 (Speaking: 27, Writing: 28)
 
   """
 
