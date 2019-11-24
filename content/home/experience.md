@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-07"
   date_end = "2019-09-14"
   description = """
-  I am advised by professor Kai-Wei Chang and Cho-Jui Hsieh in Compute Science College at UCLA conducting experiments about adversarial attack.
+  I am advised by professor Kai-Wei Chang and Cho-Jui Hsieh of the Compute Science College at UCLA to conduct experiments about adversarial attack.
   """
 
 [[experience]]
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = "2019-07-01"
   description = """
-  I am advised by professor Zhou Zhao in Compute Science College at Zhejiang University conducting experiments about various natural language processing problems including machine reading comprehension, question answeing and machine translation.
+  I am advised by professor Zhou Zhao of the Compute Science College at Zhejiang University to conduct experiments about various natural language processing problems including machine reading comprehension, video question answering, and machine translation.
   """
 
 [[experience]]
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2020-07-01"
   description = """
-  Double Major: Computer Science and Control Science. I am in Chu Kochen Honor College (recruiting top 7% students in Zhejiang University) and my overall GPA is among top 5%. 
+  Double Major: Computer Science and Automation. I am in the Chu Kochen Honor College (recruiting top 6% students in Zhejiang University) and rank first out of all students in my major. 
 
   * GPA: 3.9 / 4.0,    Rank: 1 / 20
 
