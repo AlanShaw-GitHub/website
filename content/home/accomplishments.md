@@ -34,16 +34,3 @@ date_format = "Jan 2006"
   title = "Silver medal winner (win 40000 RMB prize) in the China Datathon in Shanghai (Big Data competition)"
   date_start = "2018-11-17"
   description = ""
-
-[[item]]
-  organization = "Zhejiang University"
-  title = "“Challenge Cup” in Zhejiang University, Modeling peoples’ character with Weibo data retrieved by web crawler"
-  date_start = "2018-06-01"
-  description = ""
-
-[[item]]
-  organization = "Zhejiang University"
-  title = "Second Price in the 15th Mathematical Contest in Modeling of ZJU"
-  date_start = "2017-04-01"
-  description = ""
-+++
