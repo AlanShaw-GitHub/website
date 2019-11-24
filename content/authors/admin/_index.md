@@ -30,7 +30,7 @@ education:
   - course: BSc in Computer Science
     institution: Chu Kochen Honor College, Zhejiang University
     year: 2016 - 
-  - course: BSc in Control Science (Double major) 
+  - course: BSc in Automation (Double major) 
     institution: College of Control Science and Engineering, Zhejiang University
     year: 2016 - 
 
