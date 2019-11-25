@@ -69,4 +69,5 @@ user_groups:
 
  I am a senior undergraduate student at the Dept. of Computer Science & Technology, [Zhejiang University](http://www.zju.edu.cn/english/). I am currently working at the Natural Language Computing Group of [Microsoft Research, Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a research intern. This summer, I visited [the University of California, Los Angeles (UCLA)](http://www.ucla.edu/) to conduct experiments about adversarial attack problems, advised by professor [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I followed professor [Zhou Zhao](https://scholar.google.com/citations?user=IIoFY90AAAAJ) at [Zhejiang University](https://www.zju.edu.cn/) doing researches about various NLP problems. My research interests include general machine learning, natural language processing, and adversarial attack & robustness of machine learning models.  
 
+**I am applying for a Ph.D./MS program this fall.**
 
