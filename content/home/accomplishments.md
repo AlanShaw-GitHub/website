@@ -26,7 +26,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Zhejiang University"
-  title = "o	First Prize, Mathematical Contest in Modeling of Zhejiang University (Top 8 out of 150+)"
+  title = "First Prize, Mathematical Contest in Modeling of Zhejiang University (Top 8 out of 150+)"
   date_start = "2018-04-01"
   description = ""
 
