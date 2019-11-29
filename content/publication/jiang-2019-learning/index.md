@@ -17,7 +17,10 @@ publication_types: ["3"]
 publication: "34th AAAI Conference on Artificial Intelligence"
 publication_short: "AAAI'20 (SA)"
 
-abstract: Enabling the models with the ability of reasoning and inference over text is one of the core missions of natural language understanding. Despite deep learning models have shown strong performance on various cross-sentence inference benchmarks, recent work has shown that they are leveraging spurious statistical cues rather than capturing deeper implied relations between pairs of sentences.In this work, we show that the state-of-the-art language encoding models are especially bad at modeling directional relations between sentences by curating a new dataset task\: Cause-and-Effect Relation dataset (CER).
+abstract: Enabling the models with the ability of reasoning and inference over text is one of the core missions of natural language understanding. Despite deep learning models have shown strong performance on various cross-sentence inference benchmarks, recent work has shown that they are leveraging spurious statistical cues rather than capturing deeper implied relations between pairs of sentences.
+
+In this work, we show that the state-of-the-art language encoding models are especially bad at modeling directional relations between sentences by curating a new dataset task, which is Cause-and-Effect Relation dataset (CER).
+
 Back by this dataset, we also demonstrate that a mutual attention mechanism can guide the model to focus on capturing directional relations between sentences when added to existing transformer-based models. Experiment results show that the proposed approach improves the performance on downstream applications, such as the abductive reasoning task.
 
 
