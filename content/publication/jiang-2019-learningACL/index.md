@@ -2,7 +2,7 @@
 title: "Learning Directional Sentence-Pair Embedding for Natural Language Reasoning (ACL'20)"
 date: 2019-10-14
 publishDate: 2019-10-14T05:52:10.074910Z
-authors: ["Yuchen Jiang", "**Zhenxin Xiao**", "Kai-Wei Chang"]
+authors: ["Yuchen Jiang", "Haihong Yang", "**Zhenxin Xiao**", "Kai-Wei Chang"]
 doi: ""
 featured: false
 # Schedule page publish date (NOT publication's date).
