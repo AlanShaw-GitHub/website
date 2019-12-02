@@ -1,5 +1,5 @@
 ---
-title: "Learning Directional Sentence-Pair Embedding for Natural Language Reasoning (ACL'20)"
+title: "Learning Directional Sentence-Pair Embedding for Natural Language Reasoning (Summited to ACL'20, Long Paper)"
 date: 2019-10-14
 publishDate: 2019-10-14T05:52:10.074910Z
 authors: ["Yuchen Jiang", "Haihong Yang", "**Zhenxin Xiao**", "Kai-Wei Chang"]
@@ -15,7 +15,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The Association for Computational Linguistics"
-publication_short: "Summited to ACL'20 (Long Paper)"
+publication_short: "ACL'20 (Long Paper)"
 
 abstract: Enabling the models with the ability of reasoning and inference over text is one of the core missions of natural language understanding. Despite deep learning models have shown strong performance on various cross-sentence inference benchmarks, recent work has shown that they are leveraging spurious statistical cues rather than capturing deeper implied relations between pairs of sentences. In this work, we show that the state-of-the-art language encoding models are especially bad at modeling directional relations between sentences by curating a new dataset task, which is Cause-and-Effect Relation dataset (CER). Back by this dataset, we also demonstrate that a mutual attention mechanism can guide the model to focus on capturing directional relations between sentences when added to existing transformer-based models. Experiment results show that the proposed approach improves the performance on downstream applications, such as the abductive reasoning task.
 
