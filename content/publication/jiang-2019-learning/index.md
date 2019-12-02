@@ -1,5 +1,5 @@
 ---
-title: "Learning Directional Sentence-Pair Embedding for Natural Language Reasoning (Accepted in AAAI'20)"
+title: "Learning Directional Sentence-Pair Embedding for Natural Language Reasoning (Accepted in AAAI'20 SA)"
 date: 2019-10-14
 publishDate: 2019-10-14T05:52:10.074910Z
 authors: ["Yuchen Jiang", "**Zhenxin Xiao**", "Kai-Wei Chang"]
